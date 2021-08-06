@@ -92,3 +92,4 @@ else if(userInput.toLowerCase()==='quit'){
 }
 }
 alert("Congrats you now have $" + account + ", and a team of 500. You have WON the game!")
+console.log("github")
